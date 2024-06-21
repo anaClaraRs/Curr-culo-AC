@@ -5,23 +5,6 @@ Rio de Janeiro, Brasil
 Telefone: (61) 99335-2091
 Email: anac19@ov.ufrj.br
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 EDUCAÇÃO ACADÊMICA
 Graduação em andamento em Astronomia com ênfase em Difusão do
 Conhecimento Astronômico (Divulgação Científica)- Observatório do Valongo-
@@ -29,10 +12,7 @@ Universidade Federal do Rio de Janeiro- data de início: 2019
 Curso técnico em Multimídia, Design Gráfico e web design - SENAI - Data de
 conclusão: 2016
 
-
 EXPERIÊNCIA
-
-
 Olimpíada Brasileira de Astronomia e Astronáutica (OBA)
 Cargo: planetarista itinerante
 Período 10/2020 – 2023
@@ -40,7 +20,6 @@ Principais atividades: experiência na área de divulgação científica. Palest
 Planetário e textos sobre notícias semanais da Astronomia. Partipação na elaboração e
 aplicação de provas de planetário para a fase de seletivas internacionais da Olimpíada de
 Astronomia.
-
 
 Grupo de Física de Partículas e Astropartículas do Instituto Internacional de
 Física em Natal - Brasil
@@ -50,17 +29,6 @@ Principais atividades: realização de estudos na área de matéria escura, prov
 indireta de matéria escura. Desenvolvimento de técnicas de programação para operação de
 dados do futuro Cherenkov Telescope Array. Sob orientação do Dr. Farinaldo Queiroz.
 
-
-
-
-
-
-
-
-
-
-
-
 Observatório Nacional (ON)
 Cargo: estudante de iniciação científica
 Período 06/2021 – 08/2023
@@ -69,12 +37,10 @@ de pesquisa e programação para estimativa de parâmetros cosmológicos usando 
 da Cosmografia através de dados de Supernova Tipo Ia. O objetivo da pesquisa é estudar a
 expansão acelerada do Universo. Sob orientação da Dra. Simony Santos da Costa.
 
-
 TV VALONGO (UFRJ)
 Cargo: atividade de extensão
 Período 03/2022 –09/2023
 Principais atividades: produção de vídeo (roteirização e apresentação) sobre notícias do mundo científico (Astronomia e Física) com intenção de divulgação científica para o canal Tv Valongo no youtube, associado ao Observatório do Valongo da UFRJ.
-
 
 Fundação Planetário do Rio de Janeiro
 Cargo: estagiária
@@ -92,7 +58,6 @@ HABILIDADES
 * Comprometimento
 * Diligência
 * Responsabilidade
-
 
 IDIOMA
 Inglês: compreende bem
